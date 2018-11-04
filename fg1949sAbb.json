@@ -2,12 +2,13 @@
     "firstName": "Kwintyn",
     "lastName": "Porter",
     "preferredName": "Q",
+    "favoriteCar": "BMW E30",
     "email": "kwintynmporter@lewisu.edu",
     "phoneNumber": "708-906-0849",
     "city": "Monee",
     "state": "IL",
     "zip": "60449",
-    "lat": "41.88",
-    "lng": "-88.01", 
+    "lat": "41.4200",
+    "lng": "-87.7417", 
     "favoriteHobby": "Piano "
-} 
+}  
